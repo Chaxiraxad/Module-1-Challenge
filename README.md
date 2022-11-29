@@ -27,7 +27,7 @@ N/A
 N/A
 
 ## Credits
-Source
+
 [https://www.w3schools.com/tags/att_img_alt.asp]
 [https://www.w3schools.com/html/html5_semantic_elements.asp]
 [https://www.w3schools.com/html/html_filepaths.asp]
